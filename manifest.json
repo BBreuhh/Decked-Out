@@ -1,0 +1,13 @@
+{
+	"id": "DeckedOut",
+	"name": "Decked Out",
+	"display_name": "Decked Out",
+	"author": ["Breuhh"],
+	"description": "Adds a bunch of new decks",
+	"prefix": "do",
+	"main_file": "DeckedOut.lua",
+	"priority": 0,
+	"badge_colour": "c26448",
+	"version": "1.0",
+	"dependencies": ["Steamodded (>=1.0.0~ALPHA-1321c)"]
+}
