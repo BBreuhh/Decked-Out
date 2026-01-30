@@ -1,3 +1,9 @@
+SMODS.Atlas {
+    key = "do_colored",
+    path = "Colored.png",
+    px = 71, py = 95
+}
+
 SMODS.Back {
     key = "orange",
     config = { hands = -1, money = 0, reqmoney = 3 },
@@ -23,7 +29,7 @@ SMODS.Back {
 
 SMODS.Back {
     key = "pink",
-    config = { extra_hand_bonus = 0, extra_discard_bonus = 3 },
+    config = { extra_hand_bonus = 0, extra_discard_bonus = 2 },
     atlas = "do_colored",
     pos = { x = 1, y = 0},
     unlocked = true,
